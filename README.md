@@ -1,3 +1,6 @@
+> **Fork of [JeroenGar/sparrow](https://github.com/JeroenGar/sparrow).** Modified for use in a commercial product. Licensed under MIT (unchanged from upstream).
+> 
+> ---
 # sparrow 🪶 
 [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2509.13329.svg)](https://doi.org/10.48550/arXiv.2509.13329)
 [![CI](https://github.com/JeroenGar/sparrow/actions/workflows/rust_ci.yml/badge.svg?branch=main)](https://github.com/JeroenGar/sparrow/actions/workflows/rust_ci.yml) 
